@@ -1,0 +1,12 @@
+.skills{
+    background-color: lightblue;
+    padding: 40px;
+}
+.skills>h1,p{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 40px;
+}
+.padding{
+    margin-bottom: 15px;
+}

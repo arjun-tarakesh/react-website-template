@@ -1,0 +1,40 @@
+.navBar{
+    color: white;
+    padding-right: 40px;
+    margin-left: auto;
+}
+.brand{
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 30px;
+}
+.nav-item{
+    
+    padding: 0px 20px 0px;
+    cursor: default;
+    margin: none;
+    
+}
+.nav-item:hover{
+    border-bottom: 3px solid white;
+    margin-bottom: -15px;
+    transition:  ease-in-out;
+    cursor: default;
+    
+}
+.nav-item-text{
+    
+    cursor: pointer;
+}
+.navbar-toggler{
+    border: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav-item:hover{
+        
+        border-bottom: none;
+        margin-bottom: 0px;
+        
+    }
+  }

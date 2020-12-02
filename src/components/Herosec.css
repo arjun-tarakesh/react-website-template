@@ -1,0 +1,19 @@
+.particle{
+    background-color: black;
+}
+
+.heroSec-main{
+    height: 89vh;
+    
+    
+}
+.heroSec{
+    
+   
+   display: flex;
+   justify-content: center;
+   
+   align-items: center;
+   
+   height: 88vh;
+}

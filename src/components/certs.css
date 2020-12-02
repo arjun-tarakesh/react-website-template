@@ -1,0 +1,9 @@
+.certs{
+    margin: 40px;
+}
+
+.certs>h1{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}

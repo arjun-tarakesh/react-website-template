@@ -1,0 +1,14 @@
+.content1{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    border-radius: 40px;
+    height: 10cm;
+    background-color: gray;
+    margin: 30px 40px 30px ;
+    
+    
+}
+.content2{
+   background-color:pink;
+    padding: 10px;
+    
+}

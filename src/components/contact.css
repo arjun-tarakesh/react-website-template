@@ -1,0 +1,12 @@
+.contact{
+    background-color: pink;
+    padding: 90px;
+    display: flex;
+    justify-content: center;
+}
+.contact-item:hover{
+    border-bottom: 7px solid black;
+}
+.bg{
+    background-color: white;
+}
