@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+## LIVE DEMO : https://react-website-layout.netlify.app/ 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# IMPORTANT! 
+code maintenance to be done. Please Don't get overwhelmed 
 
-## Available Scripts
+This is a website template for react 
+can be used for portfolios, landing pages and for more static websites.
 
-In the project directory, you can run:
+## understanding the files
 
-### `npm start`
+# SRC -> 
+->components :: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  -navbar js and css (nav bar)
+    -Herosection js and css (her0 section)
+      -About js and css (about section)
+        -Skills slider js and css (progress bar)
+          -Certs js and css (carousel gallery)
+            -Projects js and css (cards)
+              -Contact js and css (icons) # non-form type
+              
+ -> default create-react-app files
+ 
+ # please refer the JSON file for all installed packages
+ 
+ # npm packages used : 
+ 
+ >reactstrap https://www.npmjs.com/package/reactstrap
+ >react bootstrap https://react-bootstrap.github.io/
+ >react icons https://www.npmjs.com/package/react-icons
+ >material UI https://www.npmjs.com/package/@material-ui/core
+ >mdbreact https://www.npmjs.com/package/mdbreact
+ 
