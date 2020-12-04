@@ -1,4 +1,5 @@
-## LIVE DEMO : https://react-website-layout.netlify.app/ 
+## LIVE DEMO : LAYOUT : https://react-website-layout.netlify.app/ 
+## website built using this template : https://arjuntarakesh.netlify.app/
 
 # IMPORTANT! 
 code maintenance to be done. Please Don't get overwhelmed 
